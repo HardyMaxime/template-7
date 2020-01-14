@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/js/index.js"],"names":["module","hot","accept","window","location","reload"],"mappings":";AAAGA,OAAOC,KACND,OAAOC,IAAIC,OAAO,WACdC,OAAOC,SAASC","file":"js.d1e2d93e.map","sourceRoot":"..","sourcesContent":["if(module.hot) {\r\n    module.hot.accept(function () {\r\n        window.location.reload()\r\n    })\r\n}"]}
